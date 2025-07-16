@@ -1,4 +1,3 @@
-import ForecastCard from "./components/ForecastCard";
 import React, { useState, useEffect } from 'react';
 import {
   MapPin,
